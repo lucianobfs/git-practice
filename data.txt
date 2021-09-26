@@ -1,0 +1,3 @@
+nome: Luciano
+idade: 20
+cor favorita: roxo
